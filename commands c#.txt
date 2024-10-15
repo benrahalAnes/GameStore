@@ -1,0 +1,5 @@
+dotnet new list
+
+dotnet build
+
+dotnet run
